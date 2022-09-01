@@ -1,4 +1,4 @@
-## Olá, Eu sou Maria Clara, estudante de informática.  👋
+## Olá, eu sou Maria Clara, estudante de informática.  👋
 
 
  <div>

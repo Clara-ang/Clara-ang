@@ -1,4 +1,7 @@
-## Olá, eu sou Maria Clara, estudante de informática.  👋
+# Hello👋
+## My name is Maria Clara, I am information Technology student at IFRN. 
+### It's a pleasure to welcome you to my profile! 
+
 
 
  <div>

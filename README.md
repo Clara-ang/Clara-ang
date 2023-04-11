@@ -1,5 +1,5 @@
 # Hello👋
-## My name is Maria Clara, I am information Technology student at IFRN. 
+## My name is Maria Clara, I am information Technology student at UFRN. 
 ### It's a pleasure to welcome you to my profile! 
 
 
